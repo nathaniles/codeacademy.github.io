@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>code academy week 3</td>
+    <td>code academy week 2</td>
     <td></td>
     <td></td>
   </tr>
