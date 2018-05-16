@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>code academy week 3</td>
     <td></td>
-    <td>10</td>
+    <td></td>
   </tr>
 </table>
 
