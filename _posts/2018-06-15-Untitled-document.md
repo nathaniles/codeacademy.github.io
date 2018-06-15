@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: badges so far
 layout: post
 author: nathan.iles
 permalink: /untitled-document/
