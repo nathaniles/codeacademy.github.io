@@ -1,5 +1,5 @@
 ---
-title: Copy of learning python week six
+title:  learning python week seven
 layout: post
 author: nathan.iles
 permalink: /copy-of-learning-python-week-six/
